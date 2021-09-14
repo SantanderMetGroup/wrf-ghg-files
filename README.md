@@ -10,3 +10,5 @@ files allow for a consistent GHG concentration in the driving CMIP6 GCM fields a
 
 This is a comparison (see [plot_CAMtr_files.py](./plot_CAMtr_files.py)) of the new SSP files created and the some of the existing concentration pathways (RCPs) files, as retrieved from WRF v4.2.2:
 ![SSP vs RCP concentrations](CAMtr_files.png)
+
+**Acknoledgement:** This work is partially funded by the CORDyS project (PID2020-116595RB-I00) funded by the Spanish National Research Agency (AEI).
